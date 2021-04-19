@@ -1,3 +1,5 @@
+# SPLFLIX
+
 **SPLFLIX** offers users two types of streaming content – movies and tv-episodes,
 which belong to a given tv-series. Like most
 streaming services we allow a creation of
